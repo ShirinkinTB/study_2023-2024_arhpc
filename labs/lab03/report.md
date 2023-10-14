@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Отчет по лабораторной работа №4"
+title: "Отчет по лабораторной работа №3"
 subtitle: "Дисциплина: архитектура компьютера"
 author: "Ширинкин Т. Б."
 
@@ -24,6 +24,9 @@ documentclass: scrreprt
 ## I18n polyglossia
 polyglossia-lang:
   name: russian
+  options:
+	- spelling=modern
+	- babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
