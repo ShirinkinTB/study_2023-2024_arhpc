@@ -76,7 +76,7 @@ header-includes:
 
 ![Рис. 0 Заходим в дирректорию](image/0.png){#fig:000 width=70%}
 
-Обновляем репозиторий (Рис. [-@fig:001])
+Обновляем репозиторий (Рис. [-@fig:001]), вот его [расположение](https://github.com/ShirinkinTB/study_2023-2024_arhpc "вот.")
 
 ![Рис. 1 Обновляем репозиторий](image/1.png){#fig:001 width=70%}
 
@@ -104,13 +104,13 @@ header-includes:
 
 ![Рис. 7 И редактируем в vi](image/7.png){#fig:007 width=70%}
 
-Засылаем файлы на удалёный репозиторий (Рис. [-@fig:008])
+Засылаем файлы на удалёный репозиторий (Рис. [-@fig:008]), вот его [расположение](https://github.com/ShirinkinTB/study_2023-2024_arhpc "вот.")
 
 ![Рис. 8 Засылаем файлы на удалёный репозиторий](image/8.png){#fig:008 width=70%}
 
 # Выполнение заданий для самостоятельной работы
 
-
+[https://github.com/ShirinkinTB/study_2023-2024_arhpc/tree/master/labs/lab02](https://github.com/ShirinkinTB/study_2023-2024_arhpc "вот.") во вторую лабораторную и переписываем её на md
 
 # Выводы
 
