@@ -134,9 +134,9 @@ header-includes:
 
 ![Рис. 14 Компонуем файл и запускаем: работает](image/14.png){#fig:014 width=70%}
 
-Компонуем файл и запускаем: работает (Рис. [-@fig:015])
+Загрузил на github [https://github.com/ShirinkinTB/study_2023-2024_arhpc/tree/master/labs/lab04](https://github.com/ShirinkinTB/study_2023-2024_arhpc "вот.") (Рис. [-@fig:015])
 
-![Рис. 15 Компонуем файл и запускаем: работает](image/15.png){#fig:015 width=70%}
+![Рис. 15 Загрузил на github](image/15.png){#fig:015 width=70%}
 # Выводы
 
 Цель достигнута: освоена процедура компиляции и сборки программ на ассемблере.
